@@ -1,5 +1,5 @@
 
 
 git add -A
-git commit -m "test"
+git commit -m "bump"
 git push origin master
